@@ -4,4 +4,4 @@ Science Olympiad Tournament Management System
 
 Created by Rohan Skariah
 
-WIP
+See tournament scoring system here: https://github.com/DaVinciRank/DaVinciRank
